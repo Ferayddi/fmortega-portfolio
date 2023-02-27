@@ -1,0 +1,31 @@
+/* palette inspiration: https://colorhunt.co/palette/3a98b9fff1dce8d5c4eeeeee */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+    font-family: Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.background-blue {
+    background-color: #3A98B9;
+}
+
+.background-light-brown { 
+    background-color: #FFF1DC;
+}
+
+.background-dark-brown {
+    background-color: #E8D5C4;
+}
+
+.background-light-grey {
+    background-color: #EEEEEE;
+}
