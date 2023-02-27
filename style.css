@@ -1,7 +1,7 @@
 /* palette inspiration: https://colorhunt.co/palette/3a98b9fff1dce8d5c4eeeeee */
 
 body {
-    margin: 8px 8px;
+    width:100%;
 }
 h1,
 h2,
@@ -13,7 +13,7 @@ p {
 }
 
 h1 {
-    font-size: 32px;
+    font-size: 45px;
     font-weight: bold;
 }
 
@@ -32,3 +32,10 @@ h1 {
 .background-light-grey {
     background-color: #EEEEEE;
 }
+
+.row-content {
+    padding: 30px 0px;
+    min-height: 600px;
+}
+
+
